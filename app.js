@@ -98,7 +98,7 @@ function Reset(){
     highest=0;
 }
 function start(){
-    //gamearea.classList.remove('hide');
+   
     startscreen.classList.add('hide');
     gamearea.innerHTML="";
 
