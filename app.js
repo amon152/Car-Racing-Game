@@ -88,7 +88,7 @@ function gamePlay(){
         {
             highest=player.score;
         }
-        score.innerHTML="Your Score:"+ player.score+"<br><br>"+"Highest Score:"+highest;
+        score.innerHTML="Your Score:"+ player.score+"<br><br>"+"Your highest Score:"+highest;
 
 
     }
