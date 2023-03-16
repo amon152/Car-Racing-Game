@@ -82,7 +82,7 @@ function gamePlay(){
         car.style.left=player.x + 'px';
 
         window.requestAnimationFrame(gamePlay);
-        //console.log(player.score++);
+        
         player.score++;
         if(player.score>=highest)
         {
