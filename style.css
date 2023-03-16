@@ -23,7 +23,7 @@
     position: relative;
     overflow: hidden;
     border-left: 10px dashed rgb(199, 196, 196);
-    border-right:10px dashed white;
+    border-right:10px dashed rgb(163, 162, 162);
 }
 .lines{
     width: 10px;
